@@ -1,10 +1,13 @@
 # Rock Paper Scissors - Git
 
-We are learning git & GitHub.
+We are learning **git** & **GitHub**.
+
 `hello from vim`
+
 > :wq
 
 ## Topics:
+
 - git initialization
 - git commits
 - git remote
